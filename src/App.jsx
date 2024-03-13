@@ -1,3 +1,4 @@
+// Completes Assignment
 import React, { useState } from 'react';
 import notificationsData from './notifications';
 import './App.css';
